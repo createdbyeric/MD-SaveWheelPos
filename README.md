@@ -4,7 +4,7 @@ This lightweight script saves the postion of a vehicles wheel while/after player
 # How To Use
 1. Download via Github
 2. Open Zipped Folder
-3. Open 'MD_SaveWheelPos-main' folder
+3. Open 'MD-SaveWheelPos-main' folder
 4. Drag 'md_savewheelpos' to your 'resources' folder
 5. Add 'start md_savewheelpos' or 'ensure md_savewheelpos' (depending server version) to your server.cfg file
 6. Start Server
