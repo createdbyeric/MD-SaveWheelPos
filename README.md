@@ -1,7 +1,7 @@
 # Information
 This lightweight script saves the postion of a vehicles wheel while/after player exits.
 
-# How To Use
+# How To Install
 1. Download via Github
 2. Open Zipped Folder
 3. Open 'MD-SaveWheelPos-main' folder
